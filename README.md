@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
 test user:
-user: z@gmail.com
+user: z@mail.com
 password: 123456
 
 ## Development server
