@@ -2,11 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
-test user:
-user: z@mail.com
-password: 123456
+## Firebase hosting
 
-<a href="https://medium-angular.firebaseapp.com">Demo</a>
+https://medium-angular.firebaseapp.com - Medium Angular Website<br/>
+
+<b>test user:</b><br/>
+user: z@mail.com<br/>
+password: 123456<br/>
 
 ## Development server
 
