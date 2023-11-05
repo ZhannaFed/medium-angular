@@ -1,7 +1,7 @@
 {
   "name": "medium-angular",
   "version": "0.0.0",
-  "homepage": "https://zhannafed.github.io/medium-angular",
+  "homepage": "https://zhannafed.github.io/medium-angular/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
