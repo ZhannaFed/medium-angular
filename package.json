@@ -8,7 +8,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "gh-pages -d dist/medium-angular"
+    "deploy": "gh-pages -d docs"
   },
   "private": true,
   "dependencies": {
